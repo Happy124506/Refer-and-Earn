@@ -1,4 +1,4 @@
-git clone https://github.com/your-username/refer-and-earn-demat.git
+
 git add .
 git commit -m "Initial commit with project setup"
 git push origin main
